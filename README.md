@@ -1,2 +1,2 @@
-# Front-End-Projects
-First Project
+# Front-End:
+Simple lightweight portfolio project
